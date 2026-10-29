@@ -1,2 +1,8 @@
-# Crop_Yield_Predicter
-it is predicts the crop yield of the crop in advance and suggest the farmers which crop is suitable for which type of area
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.

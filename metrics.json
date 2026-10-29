@@ -1,0 +1,24 @@
+{
+  "best_model": "LinearRegression",
+  "metrics": {
+    "model": "LinearRegression",
+    "r2": 0.9135,
+    "rmse": 0.4982,
+    "mae": 0.399,
+    "mape": 11.46,
+    "train_time_sec": 0.55
+  },
+  "sample_size": 50000,
+  "total_records": 50000,
+  "features": [
+    "Region",
+    "Soil_Type",
+    "Crop",
+    "Rainfall_mm",
+    "Temperature_Celsius",
+    "Fertilizer_Used",
+    "Irrigation_Used",
+    "Weather_Condition",
+    "Days_to_Harvest"
+  ]
+}

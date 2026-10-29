@@ -1,0 +1,98 @@
+[
+  {
+    "feature": "Rainfall_mm",
+    "importance_pct": 45.21
+  },
+  {
+    "feature": "Fertilizer_Used",
+    "importance_pct": 26.27
+  },
+  {
+    "feature": "Irrigation_Used",
+    "importance_pct": 20.9
+  },
+  {
+    "feature": "Temperature_Celsius",
+    "importance_pct": 5.07
+  },
+  {
+    "feature": "Soil_Type_Peaty",
+    "importance_pct": 0.32
+  },
+  {
+    "feature": "Region_East",
+    "importance_pct": 0.27
+  },
+  {
+    "feature": "Weather_Condition_Cloudy",
+    "importance_pct": 0.26
+  },
+  {
+    "feature": "Region_South",
+    "importance_pct": 0.23
+  },
+  {
+    "feature": "Soil_Type_Sandy",
+    "importance_pct": 0.21
+  },
+  {
+    "feature": "Weather_Condition_Rainy",
+    "importance_pct": 0.19
+  },
+  {
+    "feature": "Soil_Type_Silt",
+    "importance_pct": 0.18
+  },
+  {
+    "feature": "Soil_Type_Loam",
+    "importance_pct": 0.17
+  },
+  {
+    "feature": "Crop_Soybean",
+    "importance_pct": 0.17
+  },
+  {
+    "feature": "Crop_Maize",
+    "importance_pct": 0.16
+  },
+  {
+    "feature": "Soil_Type_Clay",
+    "importance_pct": 0.07
+  },
+  {
+    "feature": "Weather_Condition_Sunny",
+    "importance_pct": 0.07
+  },
+  {
+    "feature": "Region_North",
+    "importance_pct": 0.06
+  },
+  {
+    "feature": "Crop_Cotton",
+    "importance_pct": 0.05
+  },
+  {
+    "feature": "Crop_Rice",
+    "importance_pct": 0.05
+  },
+  {
+    "feature": "Days_to_Harvest",
+    "importance_pct": 0.03
+  },
+  {
+    "feature": "Region_West",
+    "importance_pct": 0.02
+  },
+  {
+    "feature": "Soil_Type_Chalky",
+    "importance_pct": 0.02
+  },
+  {
+    "feature": "Crop_Barley",
+    "importance_pct": 0.02
+  },
+  {
+    "feature": "Crop_Wheat",
+    "importance_pct": 0.0
+  }
+]

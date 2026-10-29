@@ -1,0 +1,34 @@
+[
+  {
+    "model": "LinearRegression",
+    "r2": 0.9135,
+    "rmse": 0.4982,
+    "mae": 0.399,
+    "mape": 11.46,
+    "train_time_sec": 0.55
+  },
+  {
+    "model": "Ridge",
+    "r2": 0.9135,
+    "rmse": 0.4982,
+    "mae": 0.399,
+    "mape": 11.46,
+    "train_time_sec": 0.31
+  },
+  {
+    "model": "HistGradientBoosting",
+    "r2": 0.9121,
+    "rmse": 0.5021,
+    "mae": 0.4024,
+    "mape": 11.63,
+    "train_time_sec": 16.91
+  },
+  {
+    "model": "RandomForest",
+    "r2": 0.9076,
+    "rmse": 0.515,
+    "mae": 0.4117,
+    "mape": 11.81,
+    "train_time_sec": 7.42
+  }
+]
